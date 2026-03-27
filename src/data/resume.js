@@ -17,7 +17,7 @@ export const resumeData = {
     ],
   },
   socials: [
-    { label: 'LinkedIn', url: 'https://linkedin.com/in/tamil-selvan-damodharan-042967255' },
+    { label: 'LinkedIn', url: 'https://www.linkedin.com/in/tamilselvan-d-042967255/' },
     { label: 'GitHub', url: 'https://github.com/TAMILSELVAN-2005' },
     { label: 'LeetCode', url: 'https://leetcode.com/u/tamilselvandhamodharan/' },
     { label: 'HackerRank', url: 'https://www.hackerrank.com/dhamodharantami1' },
